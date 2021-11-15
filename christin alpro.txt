@@ -1,0 +1,22 @@
+package alpro2021;
+
+import java.util.Scanner;
+
+public class perulanganchristin {
+	
+	 public static void main(String[] args) {
+		 
+		 int startNum, endNum;
+		 Scanner input = new Scanner(System.in);
+		 
+		 System.out.print("Masukkan angka awal:");
+		 startNum = input.nextInt();
+		 
+		 System.out.print("Masukkan angka akhir:");
+		 endNum = input.nextInt();
+		 
+		 for(int i = startNum; i <= endNum; i++) {
+			 System.out.println(i);
+		 }
+	 } 
+}
