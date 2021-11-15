@@ -1,2 +1,2 @@
-# Christin-Melin-Stella-Lameanda-G50120017
-Praktikum Alpro
+# A-Christin-Melin-Stella-Lameanda-G50120017
+Tugas Praktikum Alpro(Perulangan)
